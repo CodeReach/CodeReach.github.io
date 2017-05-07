@@ -301,7 +301,7 @@
 			$banner
 				._parallax();
 
-        var f = $(".map"spotlightspotlight style1 bottom);
+        var f = $(".map");
         mapWid = Math.min(f.parent().width(), 600);
         f[0].setAttribute("width", mapWid);
         f[0].setAttribute("height", mapWid*0.75);
